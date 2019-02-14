@@ -1,4 +1,4 @@
-# Pay Station
+# Inhohuse Bot
 
 ## Project Abstract
 _At least one paragraph description of the overall project. Include a UML use case diagram._ 
@@ -19,6 +19,7 @@ The project is a stand-alone project. I plan on creating the bot from the ground
 
 ## Background
 _A URL reference to the project._
+https://github.com/BasilPanda/inhousebot.py
 
 ## Required Resources
 - Group members
