@@ -8,11 +8,11 @@ Inhouse Bot is a discord bot. It's primary function is to be an inhouse ranking 
 
 ## Project Relevance
 
-The proposal is linked to the educational goals of this class because it provides practical experience with several fields of software development. This project will utilize Git/Github, version control, testing, parallel computing or asynchronous programming, debugging, access to databases and object oriented design. These goals are all important as they help build and introduce, if not yet known, the programmers to those fields and develop them further.
+The proposal is linked to the educational goals of this class because it provides practical experience with several fields of software development. This project will utilize Git/Github, version control, testing, parallel computing or asynchronous programming, debugging, access to databases and object oriented design. These goals are all important as they help build and introduce, if not yet known, the programmers to those fields and develop them further. This will as well involve learning new APIs such as from Discord and Riot Games similar to how in the industry engineers have to learn new technologies all the time.
 
 ## Conceptual Design
 
-The project is a stand-alone project. I plan on creating the bot from the ground up. I will implement the database to store player information, the commands to invoke the bot in discord, the asynchronous nature of the bot, matchmaking system, draft captain system, leaderboards/ranking, match history and the elo rating system. 
+The project is a stand-alone project. I plan on creating the bot from the ground up. I will implement the database to store player information, the commands to invoke the bot in discord, the asynchronous nature of the bot, matchmaking system, draft captain system, leaderboards/ranking, match history and the elo rating system. The code will be based on asynchronous programming and object oriented programming. It will be coded in python.
 
 ## Background
 
