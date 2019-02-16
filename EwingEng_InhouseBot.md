@@ -1,4 +1,4 @@
-# Inhohuse Bot
+# Inhouse Bot
 
 ## Project Abstract
 
